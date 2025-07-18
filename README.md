@@ -15,3 +15,7 @@ Each stage has a different amount of workers:
 - Packing: 2 cakes at the same time
 
 Every minute, a report displays the number of cakes completed and the number of cakes at each stage of preparation.
+
+## Credits
+
+https://github.com/aimenux/CakeMachineKata
